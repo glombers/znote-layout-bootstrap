@@ -3983,7 +3983,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 10px 10px 10px 19px;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -4486,7 +4486,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-right {
     float: right !important;
-    margin-right: -15px;
+    margin-right: -0px;
   }
   .navbar-right ~ .navbar-right {
     margin-right: 0;
