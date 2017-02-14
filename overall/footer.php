@@ -7,6 +7,5 @@
 		</div>
 		<script src="layout/js/bootstrap.min.js"></script>
 		<script src="layout/js/jquery.countdown.min.js"></script>
-		<script src="layout/js/misc.js"></script>
 	</body>
 </html>
