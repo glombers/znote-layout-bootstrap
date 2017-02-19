@@ -30,12 +30,6 @@
 									<td><a href="onlinelist.php"><?php echo user_count_online(); ?> players online</a></td>
 								</tr>
 								<?php } ?>
-								<tr>
-									<td><b>The next server save is in:</b><br/></td>
-								</tr>
-								<tr>
-									<td><p><span id="timeToServerSave"></span></p></td>
-								</tr>
 							</tbody>
 						</table>
 					</div>
