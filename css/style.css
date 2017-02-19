@@ -8,7 +8,7 @@ body {
 
 .header {
  background-image: url(/layout/images/header.png);
-    margin-bottom: -6px;
+    margin-bottom: -1px;
     background-position: 0% 75%;
     background-repeat: no-repeat;
     border-left: 1px solid #080808;
