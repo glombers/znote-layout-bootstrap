@@ -11,8 +11,8 @@ body {
     margin-bottom: -6px;
     background-position: 0% 75%;
     background-repeat: no-repeat;
-    border-left: 1px solid #333;
-    border-right: 1px solid #333;
+    border-left: 1px solid #080808;
+    border-right: 1px solid #080808;
     height: 225px;
     z-index: 10;
     position: relative;
