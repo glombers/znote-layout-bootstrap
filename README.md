@@ -1,4 +1,4 @@
-###znote-layout-bootstrap
+### Layout for Znote AAC based on http://twifysoft.net/
 ## Install
 1. Delete files from folder layout
 2. Download and upload files from this repository to the layout folder
@@ -7,8 +7,6 @@
 
 4. .enjoy:)
 
-
-Layout for Znote AAC based on http://twifysoft.net/
 
 ![ss1](http://i.imgur.com/fSMA1ns.png)
 
