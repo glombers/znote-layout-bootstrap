@@ -1,3 +1,4 @@
+<a href="https://opencollective.com/socketio/backer/0/website" target="_blank"><img src="https://opencollective.com/socketio/backer/0/avatar.svg"></a>
 ### Layout for Znote AAC based on http://twifysoft.net/
 ## Install
 1. Delete files from folder layout
