@@ -1,4 +1,3 @@
-<a href="https://github.com/glombers" target="_blank"><img src="https://avatars2.githubusercontent.com/u/18645897?v=4&s=460"></a>
 ### Layout for Znote AAC based on http://twifysoft.net/
 ## Install
 1. Delete files from folder layout
